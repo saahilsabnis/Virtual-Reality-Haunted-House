@@ -1,0 +1,4 @@
+repository "P3@BigProjects@cloud"
+  path "/"
+    br "/main"
+    co "/main"

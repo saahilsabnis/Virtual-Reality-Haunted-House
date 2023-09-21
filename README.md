@@ -15,3 +15,7 @@ Instructions for building and running this project on your machine:
 12) After allowing the PC connection to connect, in the build settings in Texture Compression select ASTC. In the run device click on refresh and then you will be able to see Oculus Quest in the dropdown, select it.
 13) Click on build and run.
 14) Wear the Oculus Headset, in that go to the 'apps' tab, on the top right corner click on the dropdown and select 'Unknown sources'. Here you will see the app, select it and run it.
+
+
+**Video Demo**
+https://www.youtube.com/watch?v=j3-uCuBZ8co

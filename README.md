@@ -19,3 +19,6 @@ Instructions for building and running this project on your machine:
 
 **Video Demo**
 https://www.youtube.com/watch?v=j3-uCuBZ8co
+
+
+Read more here: https://ssabnis2.people.uic.edu/project3.html
